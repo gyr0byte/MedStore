@@ -1,0 +1,12 @@
+MedStore Pharmacy
+Date: 20260510_163834
+Invoice #: INV-20260510_163834
+Customer: Gaurav
+
+S.No | Medicine | Brand | Qty | Unit | Strips | Tablets | Discount | Amount
+------------------------------------------------------------------------------------------
+1 | Cetirizine 10mg | Quest | 20 | tablet | 1 | 8 | 0.0 | 58.33
+------------------------------------------------------------------------------------------
+Subtotal: 58.33
+Discount: 0.0
+Grand Total: 58.33
